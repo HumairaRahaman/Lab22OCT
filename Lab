@@ -1,0 +1,20 @@
+> #Try to do some simple calculations here. For instance convert pounds to dollars or rupees. Convert
+> today’s temperature into Fahrenheit
+Error: unexpected input in "today’"
+> con_rate <- 1.23
+> 
+> pounds <- 50
+> dollers <- pounds * con_rate
+> print(dollers)
+[1] 61.5
+> 
+> 
+> #See if you can convert the weight 15st 7lbs into kg. You will need to do two calculations. Convert
+> stones to pounds (multiply by 14) then add the pounds, then turn it into kilograms by dividing by 2.2.
+Error: unexpected symbol in "stones to"
+> st <- 15
+> p <- 7
+> Total_p <- ( st * 14 ) + 7
+> kg <- Total_p / 2.2
+> print(kg)
+[1] 98.63636
