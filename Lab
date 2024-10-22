@@ -18,3 +18,30 @@ Error: unexpected symbol in "stones to"
 > kg <- Total_p / 2.2
 > print(kg)
 [1] 98.63636
+
+> # T3
+> 
+> 
+> myArray <- c(2,5,6)
+> result  <- myArray*2
+> print(result)
+[1]  4 10 12
+> 
+> 
+> names <- c("nouman","tanvir")
+> call <- paste("Hi", names, "!")
+> print(call)
+[1] "Hi nouman !" "Hi tanvir !"
+> 
+
+> #Task4
+> 
+> goals<- c(1,4,3,2)
+> runs<- c(22,34,35,21)
+> summary(goals)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   1.00    1.75    2.50    2.50    3.25    4.00 
+> summary(runs)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  21.00   21.75   28.00   28.00   34.25   35.00 
+> 
